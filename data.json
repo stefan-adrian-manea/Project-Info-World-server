@@ -174,37 +174,6 @@
           "chassisNumber": "8901234567"
         }
       ]
-    },
-    {
-      "firstName": "ALALA",
-      "lastName": "Sdada",
-      "email": "stefan.manea198@gmail.com",
-      "phoneNumber": "0766104732",
-      "cars": [
-        {
-          "make": "Toyota",
-          "model": "Corolla",
-          "year": "2020",
-          "engineType": "electric",
-          "engineCapacity": "2000",
-          "horsepower": "997",
-          "kilowatts": "743.48",
-          "registrationNumber": "B001CDC",
-          "chassisNumber": "1234567890"
-        },
-        {
-          "make": "Toyota",
-          "model": "Corolla",
-          "year": "2000",
-          "engineType": "gasoline",
-          "engineCapacity": "2000",
-          "horsepower": "2",
-          "kilowatts": "1.49",
-          "registrationNumber": "B001CDC",
-          "chassisNumber": "1234567890"
-        }
-      ],
-      "id": "_6s167sgsl"
     }
   ],
   "appointments": [
@@ -229,7 +198,8 @@
         "operations": "dassdasad",
         "otherIssues": "dasda",
         "repairedOtherIssues": true,
-        "repairDuration": "10"
+        "repairDuration": "10",
+        "completed": true
       }
     },
     {
@@ -253,7 +223,8 @@
         "operations": "ipsum",
         "otherIssues": "dolor",
         "repairedOtherIssues": true,
-        "repairDuration": "5"
+        "repairDuration": "5",
+        "completed": true
       }
     },
     {
@@ -263,22 +234,7 @@
       "car": "Mercedes-Benz C-Class (2018)",
       "action": "lorem",
       "contact": "Email: michael.brown@example.com",
-      "interval": "14:00",
-      "receptionServiceHistory": {
-        "serviceType": "revision",
-        "isScratched": false,
-        "isDamaged": true,
-        "scratchedLocation": "",
-        "damageLocation": "lorem",
-        "mentionedProblems": "ipsum dolor sit amet"
-      },
-      "processingServiceHistory": {
-        "partsChanged": "dolor",
-        "operations": "sit amet",
-        "otherIssues": "lorem ipsum",
-        "repairedOtherIssues": false,
-        "repairDuration": "7.5"
-      }
+      "interval": "14:00"
     },
     {
       "id": "8c1e",
@@ -287,22 +243,7 @@
       "car": "Volvo S60 (2019)",
       "action": "lorem",
       "contact": "Email: sophia.williams@example.com",
-      "interval": "15:30",
-      "receptionServiceHistory": {
-        "serviceType": "repair",
-        "isScratched": true,
-        "isDamaged": false,
-        "scratchedLocation": "lorem",
-        "damageLocation": "",
-        "mentionedProblems": "ipsum dolor"
-      },
-      "processingServiceHistory": {
-        "partsChanged": "sit amet",
-        "operations": "lorem",
-        "otherIssues": "",
-        "repairedOtherIssues": true,
-        "repairDuration": "8.5"
-      }
+      "interval": "15:30"
     },
     {
       "id": "9d4f",
@@ -311,22 +252,7 @@
       "car": "Tesla Model 3 (2020)",
       "action": "lorem",
       "contact": "Email: james.jones@example.com",
-      "interval": "09:00",
-      "receptionServiceHistory": {
-        "serviceType": "repair",
-        "isScratched": true,
-        "isDamaged": true,
-        "scratchedLocation": "lorem",
-        "damageLocation": "ipsum",
-        "mentionedProblems": "dolor sit amet"
-      },
-      "processingServiceHistory": {
-        "partsChanged": "ipsum",
-        "operations": "dolor sit",
-        "otherIssues": "amet",
-        "repairedOtherIssues": true,
-        "repairDuration": "6"
-      }
+      "interval": "09:00"
     },
     {
       "id": "6a9b",
@@ -335,45 +261,32 @@
       "car": "Jeep Wrangler (2022)",
       "action": "lorem",
       "contact": "Email: olivia.davis@example.com",
-      "interval": "13:00",
+      "interval": "13:00"
+    },
+    {
+      "id": "7cf8",
+      "clientID": "5e87",
+      "clientName": "David Wilson",
+      "car": "Toyota Camry (2020)",
+      "action": "asdasda",
+      "contact": "Email: david.wilson@example.com",
+      "interval": "11:00"
+    },
+    {
+      "id": "7315",
+      "clientID": "5e87",
+      "clientName": "David Wilson",
+      "car": "Toyota Camry (2020)",
+      "action": "asdasd",
+      "contact": "Email: david.wilson@example.com",
+      "interval": "10:00",
       "receptionServiceHistory": {
         "serviceType": "revision",
         "isScratched": false,
         "isDamaged": false,
         "scratchedLocation": "",
         "damageLocation": "",
-        "mentionedProblems": "lorem ipsum dolor"
-      },
-      "processingServiceHistory": {
-        "partsChanged": "sit amet",
-        "operations": "lorem",
-        "otherIssues": "",
-        "repairedOtherIssues": false,
-        "repairDuration": "4.5"
-      }
-    },
-    {
-      "clientID": "_6s167sgsl",
-      "clientName": "ALALA Sdada",
-      "car": "Toyota Corolla (2020)",
-      "action": "sadsad",
-      "contact": "Email: stefan.manea198@gmail.com",
-      "interval": "11:00",
-      "id": "_cljnj2oni",
-      "receptionServiceHistory": {
-        "serviceType": "revision",
-        "isScratched": true,
-        "isDamaged": false,
-        "scratchedLocation": "sadsasd",
-        "damageLocation": "",
-        "mentionedProblems": "asddasda"
-      },
-      "processingServiceHistory": {
-        "partsChanged": "sasa",
-        "operations": "dsasda",
-        "otherIssues": "adsdas",
-        "repairedOtherIssues": true,
-        "repairDuration": "20"
+        "mentionedProblems": ""
       }
     }
   ]
