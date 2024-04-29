@@ -1,0 +1,380 @@
+{
+  "clients": [
+    {
+      "firstName": "Johnnnn",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "phoneNumber": "+1234567890",
+      "id": "8d52",
+      "cars": [
+        {
+          "make": "Toyota",
+          "model": "Corolla",
+          "year": "2018",
+          "engineType": "diesel",
+          "engineCapacity": "1.8",
+          "horsepower": "140",
+          "kilowatts": "104",
+          "registrationNumber": "ABC123",
+          "chassisNumber": "1234567890"
+        },
+        {
+          "make": "Honda",
+          "model": "Civic",
+          "year": "2020",
+          "engineType": "gasoline",
+          "engineCapacity": "2.0",
+          "horsepower": "160",
+          "kilowatts": "119",
+          "registrationNumber": "DEF456",
+          "chassisNumber": "0987654321"
+        }
+      ]
+    },
+    {
+      "id": "6f91",
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "email": "alice.smith@example.com",
+      "phoneNumber": "+1987654321",
+      "cars": [
+        {
+          "make": "Ford",
+          "model": "Focus",
+          "year": "2019",
+          "engineType": "gasoline",
+          "engineCapacity": "1.6",
+          "horsepower": "120",
+          "kilowatts": "89",
+          "registrationNumber": "XYZ789",
+          "chassisNumber": "9876543210"
+        },
+        {
+          "make": "Chevrolet",
+          "model": "Cruze",
+          "year": "2017",
+          "engineType": "gasoline",
+          "engineCapacity": "1.4",
+          "horsepower": "150",
+          "kilowatts": "112",
+          "registrationNumber": "GHI987",
+          "chassisNumber": "0123456789"
+        }
+      ]
+    },
+    {
+      "id": "3b78",
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily.johnson@example.com",
+      "phoneNumber": "+1654321879",
+      "cars": [
+        {
+          "make": "Volkswagen",
+          "model": "Golf",
+          "year": "2020",
+          "engineType": "gasoline",
+          "engineCapacity": "1.8",
+          "horsepower": "150",
+          "kilowatts": "112",
+          "registrationNumber": "JKL456",
+          "chassisNumber": "5678901234"
+        },
+        {
+          "make": "BMW",
+          "model": "3 Series",
+          "year": "2016",
+          "engineType": "gasoline",
+          "engineCapacity": "2.0",
+          "horsepower": "180",
+          "kilowatts": "134",
+          "registrationNumber": "MNO123",
+          "chassisNumber": "3456789012"
+        }
+      ]
+    },
+    {
+      "id": "1a45",
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "email": "michael.brown@example.com",
+      "phoneNumber": "+1789456123",
+      "cars": [
+        {
+          "make": "Audi",
+          "model": "A4",
+          "year": "2017",
+          "engineType": "gasoline",
+          "engineCapacity": "2.0",
+          "horsepower": "190",
+          "kilowatts": "142",
+          "registrationNumber": "PQR789",
+          "chassisNumber": "4567890123"
+        },
+        {
+          "make": "Mercedes-Benz",
+          "model": "C-Class",
+          "year": "2019",
+          "engineType": "gasoline",
+          "engineCapacity": "2.2",
+          "horsepower": "170",
+          "kilowatts": "127",
+          "registrationNumber": "STU456",
+          "chassisNumber": "2345678901"
+        }
+      ]
+    },
+    {
+      "id": "9c23",
+      "firstName": "Sophia",
+      "lastName": "Miller",
+      "email": "sophia.miller@example.com",
+      "phoneNumber": "+1876543210",
+      "cars": [
+        {
+          "make": "Hyundai",
+          "model": "Elantra",
+          "year": "2018",
+          "engineType": "gasoline",
+          "engineCapacity": "1.6",
+          "horsepower": "130",
+          "kilowatts": "97",
+          "registrationNumber": "VWX234",
+          "chassisNumber": "6789012345"
+        },
+        {
+          "make": "Kia",
+          "model": "Sorento",
+          "year": "2021",
+          "engineType": "gasoline",
+          "engineCapacity": "2.4",
+          "horsepower": "185",
+          "kilowatts": "138",
+          "registrationNumber": "YZA567",
+          "chassisNumber": "4567890123"
+        }
+      ]
+    },
+    {
+      "firstName": "David",
+      "lastName": "Wilson",
+      "email": "david.wilson@example.com",
+      "phoneNumber": "+1543210987",
+      "id": "5e87",
+      "cars": [
+        {
+          "make": "Toyota",
+          "model": "Camry",
+          "year": "2020",
+          "engineType": "gasoline",
+          "engineCapacity": "2.5",
+          "horsepower": "200",
+          "kilowatts": "149",
+          "registrationNumber": "BCD345",
+          "chassisNumber": "8901234567"
+        }
+      ]
+    },
+    {
+      "firstName": "ALALA",
+      "lastName": "Sdada",
+      "email": "stefan.manea198@gmail.com",
+      "phoneNumber": "0766104732",
+      "cars": [
+        {
+          "make": "Toyota",
+          "model": "Corolla",
+          "year": "2020",
+          "engineType": "electric",
+          "engineCapacity": "2000",
+          "horsepower": "997",
+          "kilowatts": "743.48",
+          "registrationNumber": "B001CDC",
+          "chassisNumber": "1234567890"
+        },
+        {
+          "make": "Toyota",
+          "model": "Corolla",
+          "year": "2000",
+          "engineType": "gasoline",
+          "engineCapacity": "2000",
+          "horsepower": "2",
+          "kilowatts": "1.49",
+          "registrationNumber": "B001CDC",
+          "chassisNumber": "1234567890"
+        }
+      ],
+      "id": "_6s167sgsl"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "217c",
+      "clientID": "5e87",
+      "clientName": "David Wilson",
+      "car": "Toyota Camry (2020)",
+      "action": "dsasdadsa",
+      "contact": "Email: david.wilson@example.com",
+      "interval": "11:30",
+      "receptionServiceHistory": {
+        "serviceType": "revision",
+        "isScratched": true,
+        "isDamaged": true,
+        "scratchedLocation": "sadads",
+        "damageLocation": "dadsdsaasd",
+        "mentionedProblems": "dsaadsdasdsa  as dsa dsd asda"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "dasda",
+        "operations": "dassdasad",
+        "otherIssues": "dasda",
+        "repairedOtherIssues": true,
+        "repairDuration": "10"
+      }
+    },
+    {
+      "id": "3f8a",
+      "clientID": "1a23",
+      "clientName": "Emma Johnson",
+      "car": "BMW 3 Series (2021)",
+      "action": "lorem",
+      "contact": "Email: emma.johnson@example.com",
+      "interval": "10:00",
+      "receptionServiceHistory": {
+        "serviceType": "revision",
+        "isScratched": true,
+        "isDamaged": true,
+        "scratchedLocation": "lorem",
+        "damageLocation": "ipsum",
+        "mentionedProblems": "dolor sit amet"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "lorem",
+        "operations": "ipsum",
+        "otherIssues": "dolor",
+        "repairedOtherIssues": true,
+        "repairDuration": "5"
+      }
+    },
+    {
+      "id": "7b2d",
+      "clientID": "4b56",
+      "clientName": "Michael Brown",
+      "car": "Mercedes-Benz C-Class (2018)",
+      "action": "lorem",
+      "contact": "Email: michael.brown@example.com",
+      "interval": "14:00",
+      "receptionServiceHistory": {
+        "serviceType": "revision",
+        "isScratched": false,
+        "isDamaged": true,
+        "scratchedLocation": "",
+        "damageLocation": "lorem",
+        "mentionedProblems": "ipsum dolor sit amet"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "dolor",
+        "operations": "sit amet",
+        "otherIssues": "lorem ipsum",
+        "repairedOtherIssues": false,
+        "repairDuration": "7.5"
+      }
+    },
+    {
+      "id": "8c1e",
+      "clientID": "7c89",
+      "clientName": "Sophia Williams",
+      "car": "Volvo S60 (2019)",
+      "action": "lorem",
+      "contact": "Email: sophia.williams@example.com",
+      "interval": "15:30",
+      "receptionServiceHistory": {
+        "serviceType": "repair",
+        "isScratched": true,
+        "isDamaged": false,
+        "scratchedLocation": "lorem",
+        "damageLocation": "",
+        "mentionedProblems": "ipsum dolor"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "sit amet",
+        "operations": "lorem",
+        "otherIssues": "",
+        "repairedOtherIssues": true,
+        "repairDuration": "8.5"
+      }
+    },
+    {
+      "id": "9d4f",
+      "clientID": "0d12",
+      "clientName": "James Jones",
+      "car": "Tesla Model 3 (2020)",
+      "action": "lorem",
+      "contact": "Email: james.jones@example.com",
+      "interval": "09:00",
+      "receptionServiceHistory": {
+        "serviceType": "repair",
+        "isScratched": true,
+        "isDamaged": true,
+        "scratchedLocation": "lorem",
+        "damageLocation": "ipsum",
+        "mentionedProblems": "dolor sit amet"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "ipsum",
+        "operations": "dolor sit",
+        "otherIssues": "amet",
+        "repairedOtherIssues": true,
+        "repairDuration": "6"
+      }
+    },
+    {
+      "id": "6a9b",
+      "clientID": "3e45",
+      "clientName": "Olivia Davis",
+      "car": "Jeep Wrangler (2022)",
+      "action": "lorem",
+      "contact": "Email: olivia.davis@example.com",
+      "interval": "13:00",
+      "receptionServiceHistory": {
+        "serviceType": "revision",
+        "isScratched": false,
+        "isDamaged": false,
+        "scratchedLocation": "",
+        "damageLocation": "",
+        "mentionedProblems": "lorem ipsum dolor"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "sit amet",
+        "operations": "lorem",
+        "otherIssues": "",
+        "repairedOtherIssues": false,
+        "repairDuration": "4.5"
+      }
+    },
+    {
+      "clientID": "_6s167sgsl",
+      "clientName": "ALALA Sdada",
+      "car": "Toyota Corolla (2020)",
+      "action": "sadsad",
+      "contact": "Email: stefan.manea198@gmail.com",
+      "interval": "11:00",
+      "id": "_cljnj2oni",
+      "receptionServiceHistory": {
+        "serviceType": "revision",
+        "isScratched": true,
+        "isDamaged": false,
+        "scratchedLocation": "sadsasd",
+        "damageLocation": "",
+        "mentionedProblems": "asddasda"
+      },
+      "processingServiceHistory": {
+        "partsChanged": "sasa",
+        "operations": "dsasda",
+        "otherIssues": "adsdas",
+        "repairedOtherIssues": true,
+        "repairDuration": "20"
+      }
+    }
+  ]
+}
